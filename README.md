@@ -19,11 +19,9 @@ LiftSocial is a modern social platform designed for fitness enthusiasts to share
 - Chakra UI
 - Chart.js
 - React Router DOM
-- Supabase Client
 
 ### Backend
 - Node.js
 - Express
-- Supabase
+- Supabase (PostgreSQL)
 - JWT Authentication
-- CORS
