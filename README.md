@@ -26,4 +26,4 @@ LiftSocial is a modern social platform designed for fitness enthusiasts to share
 - Express
 - Supabase
 - JWT Authentication
-- CORS
+- CORS# liftsocial
