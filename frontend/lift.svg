@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Simple Dumbbell Icon -->
+  <rect x="50" y="90" width="100" height="20" fill="#007BFF" rx="5" ry="5"/>
+  <rect x="30" y="80" width="20" height="40" fill="#007BFF" rx="5" ry="5"/>
+  <rect x="150" y="80" width="20" height="40" fill="#007BFF" rx="5" ry="5"/>
+</svg>
